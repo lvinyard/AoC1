@@ -1,0 +1,14 @@
+c:\Users\Lucas\Desktop\AoC\AoC1\bin\Debug\net9.0\AoC1.exe
+c:\Users\Lucas\Desktop\AoC\AoC1\bin\Debug\net9.0\AoC1.deps.json
+c:\Users\Lucas\Desktop\AoC\AoC1\bin\Debug\net9.0\AoC1.runtimeconfig.json
+c:\Users\Lucas\Desktop\AoC\AoC1\bin\Debug\net9.0\AoC1.dll
+c:\Users\Lucas\Desktop\AoC\AoC1\bin\Debug\net9.0\AoC1.pdb
+c:\Users\Lucas\Desktop\AoC\AoC1\obj\Debug\net9.0\AoC1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lucas\Desktop\AoC\AoC1\obj\Debug\net9.0\AoC1.AssemblyInfoInputs.cache
+c:\Users\Lucas\Desktop\AoC\AoC1\obj\Debug\net9.0\AoC1.AssemblyInfo.cs
+c:\Users\Lucas\Desktop\AoC\AoC1\obj\Debug\net9.0\AoC1.csproj.CoreCompileInputs.cache
+c:\Users\Lucas\Desktop\AoC\AoC1\obj\Debug\net9.0\AoC1.dll
+c:\Users\Lucas\Desktop\AoC\AoC1\obj\Debug\net9.0\refint\AoC1.dll
+c:\Users\Lucas\Desktop\AoC\AoC1\obj\Debug\net9.0\AoC1.pdb
+c:\Users\Lucas\Desktop\AoC\AoC1\obj\Debug\net9.0\AoC1.genruntimeconfig.cache
+c:\Users\Lucas\Desktop\AoC\AoC1\obj\Debug\net9.0\ref\AoC1.dll
