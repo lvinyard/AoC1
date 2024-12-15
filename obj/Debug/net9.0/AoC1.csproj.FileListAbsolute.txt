@@ -12,3 +12,4 @@ c:\Users\Lucas\Desktop\AoC\AoC1\obj\Debug\net9.0\refint\AoC1.dll
 c:\Users\Lucas\Desktop\AoC\AoC1\obj\Debug\net9.0\AoC1.pdb
 c:\Users\Lucas\Desktop\AoC\AoC1\obj\Debug\net9.0\AoC1.genruntimeconfig.cache
 c:\Users\Lucas\Desktop\AoC\AoC1\obj\Debug\net9.0\ref\AoC1.dll
+C:\Users\Lucas\Desktop\AoC\AoC1\obj\Debug\net9.0\AoC1.sourcelink.json

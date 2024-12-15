@@ -4,4 +4,4 @@ using System.Runtime.CompilerServices;
 using AoC1.Days;
 
 
-Day3.Execute();
+Day4.Execute();
